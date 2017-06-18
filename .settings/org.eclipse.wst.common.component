@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TP_AD">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/TP_AD/src"/>
+        <wb-resource deploy-path="/" source-path="/TP_JSP/src"/>
+        <property name="context-root" value="TP_AD"/>
+        <property name="java-output-path" value="/TP_AD/TP_AD/build/classes"/>
+    </wb-module>
+</project-modules>
